@@ -1,6 +1,6 @@
 package builder.builders;
 
-import builder.cars.Manual;
+import builder.tasks.Manual;
 import builder.components.*;
 
 public class TaskManualBuilder implements Builder{

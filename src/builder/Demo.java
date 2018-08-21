@@ -2,9 +2,9 @@ package builder;
 
 import builder.builders.TaskBuilder;
 import builder.builders.TaskManualBuilder;
-import builder.cars.Task;
-import builder.cars.Manual;
-import builder.director.User;
+import builder.tasks.Task;
+import builder.tasks.Manual;
+import builder.user.User;
 
 public class Demo {
     public static void main(String[] args) {

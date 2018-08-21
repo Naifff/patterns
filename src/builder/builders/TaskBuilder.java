@@ -1,6 +1,6 @@
 package builder.builders;
 
-import builder.cars.Task;
+import builder.tasks.Task;
 import builder.components.*;
 
 public class TaskBuilder implements Builder{

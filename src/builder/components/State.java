@@ -1,6 +1,6 @@
 package builder.components;
 
-import builder.cars.Task;
+import builder.tasks.Task;
 
 public class State {
     private Task task;
